@@ -11,4 +11,16 @@ I'll be uploading the solutions of leetcode daily problems with its easy-to-unde
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
