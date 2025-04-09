@@ -14,6 +14,7 @@ I'll be uploading the solutions of leetcode daily problems with its easy-to-unde
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
@@ -23,4 +24,8 @@ I'll be uploading the solutions of leetcode daily problems with its easy-to-unde
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
