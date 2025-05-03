@@ -28,4 +28,13 @@ I'll be uploading the solutions of leetcode daily problems with its easy-to-unde
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/iamshreyashh/Leetcode_solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
